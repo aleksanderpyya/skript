@@ -22,3 +22,8 @@ git remote add skript git@github.com:aleksanderpyya/skript.git
 
 f) git remote kontroll
 git remote -v
+
+põhikasutamine:
+
+a) pane fail jälgimisele:
+git add failinimi
